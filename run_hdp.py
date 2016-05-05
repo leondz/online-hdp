@@ -1,3 +1,4 @@
+#!/usr/bin/env python2
 import sys, os
 from corpus import *
 import hdp
